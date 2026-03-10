@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+tmp/
+temp/
+
+# Local exports / downloads
+exports/
+downloads/
+artifacts/
