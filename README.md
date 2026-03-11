@@ -7,9 +7,8 @@
 - MCP
 - 提示词模式
 - 工作流设计
-- 学习笔记与踩坑记录
 
-本仓库采用“混合型、类型优先”的组织方式：
+仓库结构：
 
 - `inbox/`：刚收集进来的原始内容，先入库再整理
 - `agents/`：整理好的可复用 agent
@@ -50,13 +49,6 @@
 - 标签：code-review / rag / browser / research / orchestration
 - 状态：collected / draft / validated / archived
 
-## 推荐工作流
-
-1. 先把内容存进 `inbox/`
-2. 判断是否值得长期保留
-3. 用 `templates/` 里的模板整理
-4. 更新 `catalog/` 中的索引和标签
-5. 再补 `notes/` 里的经验总结
 
 ## 命名约定
 
@@ -75,6 +67,3 @@
 - `status`
 - `summary`
 
-## 当前状态
-
-这是第一版基础骨架，适合先开始收集和整理，后续再根据使用习惯补自动化脚本和更细的索引。
