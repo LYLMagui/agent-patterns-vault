@@ -1,0 +1,3 @@
+# User Research Synthesis Skill
+
+Synthesize qualitative and quantitative user research into structured insights and opportunity areas. Use when analyzing interview notes, su…

@@ -1,0 +1,3 @@
+# Scientific Critical Thinking
+
+Evaluate research rigor. Assess methodology, experimental design, statistical validity, biases, confounding, evidence quality (GRADE, Cochra…

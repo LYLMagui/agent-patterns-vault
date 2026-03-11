@@ -1,0 +1,3 @@
+# Startup Business Models
+
+Use when choosing or evaluating a startup revenue model, pricing/value metric, packaging/tier design, or calculating unit economics (LTV, CA…

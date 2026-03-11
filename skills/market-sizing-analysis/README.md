@@ -1,0 +1,3 @@
+# Market Sizing Analysis
+
+This skill should be used when the user asks to "calculate TAM", "determine SAM", "estimate SOM", "size the market", "calculate market oppor…

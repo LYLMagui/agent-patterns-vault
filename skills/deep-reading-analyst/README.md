@@ -1,0 +1,3 @@
+# Deep Reading Analyst
+
+Comprehensive framework for deep analysis of articles, papers, and long-form content using 10+ thinking models (SCQA, 5W2H, critical thinkin…

@@ -1,0 +1,3 @@
+# Product Strategist
+
+Expert product strategy covering market analysis, competitive positioning, go-to-market planning, and product-led growth.

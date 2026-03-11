@@ -1,0 +1,3 @@
+# Web scraping methodology
+
+Web scraping with anti-bot bypass, content extraction, undocumented APIs and poison pill detection. Use when extracting content from website…

@@ -1,0 +1,3 @@
+# SEO Content Strategist
+
+Expert SEO content strategy for SaaS and B2B sites. Use when doing keyword research, planning content clusters, creating pillar pages, optim…

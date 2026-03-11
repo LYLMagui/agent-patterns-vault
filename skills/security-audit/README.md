@@ -1,0 +1,3 @@
+# Security Audit
+
+Use when reviewing code security, auditing dependencies for CVEs, checking configuration or secret security, assessing authentication and au…

@@ -1,0 +1,3 @@
+# Startup Financial Modeling
+
+This skill should be used when the user asks to "create financial projections", "build a financial model", "forecast revenue", "calculate bu…

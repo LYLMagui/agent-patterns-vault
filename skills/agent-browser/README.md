@@ -1,0 +1,3 @@
+# Browser Automation with agent-browser
+
+Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking…

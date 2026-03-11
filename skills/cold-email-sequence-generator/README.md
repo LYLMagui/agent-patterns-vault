@@ -1,0 +1,3 @@
+# Cold Email Sequence Generator
+
+Generate personalized cold email sequences (7-14 emails) with A/B test subject lines, follow-up timing recommendations, and integrated socia…

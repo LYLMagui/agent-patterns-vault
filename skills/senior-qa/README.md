@@ -1,0 +1,3 @@
+# Senior Qa
+
+Comprehensive QA and testing skill for quality assurance, test automation, and testing strategies for ReactJS, NextJS, NodeJS applications.…

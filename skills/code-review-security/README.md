@@ -1,0 +1,3 @@
+# Code Review Security
+
+Security-focused code review checklist and automated scanning patterns. Use when reviewing pull requests for security issues, auditing authe…

@@ -1,0 +1,3 @@
+# Deep Research
+
+Conduct enterprise-grade research with multi-source synthesis, citation tracking, and verification. Use when user needs comprehensive analys…

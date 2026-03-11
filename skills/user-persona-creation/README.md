@@ -1,0 +1,3 @@
+# User Persona Creation
+
+Create detailed user personas based on research and data. Develop realistic representations of target users to guide product decisions and e…

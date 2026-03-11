@@ -1,0 +1,3 @@
+# UX Audit and Rethink
+
+Comprehensive UX audit using IxDF's 7 factors, 5 usability characteristics, and 5 interaction dimensions. Holistic evaluation with redesign…

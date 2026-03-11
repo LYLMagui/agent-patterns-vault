@@ -1,0 +1,3 @@
+# GitHub Explorer — 项目深度分析
+
+Deep-dive analysis of GitHub projects. Use when the user mentions a GitHub repo/project name and wants to understand it — triggered by phras…

@@ -1,0 +1,3 @@
+# Email Sequence Design
+
+When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when…

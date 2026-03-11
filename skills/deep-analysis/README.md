@@ -1,0 +1,3 @@
+# Deep Analysis Skill
+
+Analytical thinking patterns for comprehensive evaluation, code audits, security analysis, and performance reviews. Provides structured temp…

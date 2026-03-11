@@ -1,0 +1,3 @@
+# Financial Unit Economics
+
+Use when evaluating business model viability, analyzing profitability per customer/product/transaction, validating startup metrics (CAC, LTV…

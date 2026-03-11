@@ -1,0 +1,3 @@
+# Competitive Intelligence Analyst - Market & Competitor Tracking
+
+Use this skill when users need to analyze competitors, monitor market movements, benchmark features/pricing, identify market gaps, or unders…

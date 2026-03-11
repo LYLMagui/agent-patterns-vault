@@ -1,0 +1,3 @@
+# Pricing Strategy
+
+When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing ti…

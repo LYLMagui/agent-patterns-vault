@@ -1,0 +1,3 @@
+# websh Skill
+
+A shell for the web. Navigate URLs like directories, query pages with Unix-like commands. Activate on `websh` command, shell-style web navig…
