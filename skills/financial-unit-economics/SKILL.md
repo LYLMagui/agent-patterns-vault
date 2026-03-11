@@ -1,7 +1,7 @@
 ---
 name: financial-unit-economics
-description: Use when evaluating business model viability, analyzing profitability per customer/product/transaction, validating startup metrics (CAC, LTV, payback period), making pricing decisions, assessing scalability, comparing business models, or when user mentions unit economics, CAC/LTV ratio, contribution margin, customer profitability, break-even analysis, or needs to determine if a business can be profitable at scale.
 ---
+
 # Financial Unit Economics
 
 ## Table of Contents

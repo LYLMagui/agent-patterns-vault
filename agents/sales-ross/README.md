@@ -1,17 +1,4 @@
-﻿# Sales Agent — Aaron Ross
-
-## Metadata
-
-- `title`: `Sales Agent — Aaron Ross`
-- `type`: `agent`
-- `tags`: agent, draft, collected-online, sales, pricing
-- `source`: `https://github.com/MaxMiksa/Auto-Company/blob/main/.claude/agents/sales-ross.md`
-- `status`: `draft`
-- `summary`: 销售总监（Aaron Ross 思维模型）。当需要定价策略、销售模式选择、转化率优化、客户获取成本分析时使用。
-
-## Summary
-
-销售总监（Aaron Ross 思维模型）。当需要定价策略、销售模式选择、转化率优化、客户获取成本分析时使用。
+# Sales Agent — Aaron Ross
 
 ## Role
 销售总监，负责销售策略、获客流程、收入增长和销售系统搭建。
@@ -102,12 +89,3 @@
 3. 给出具体的获客渠道和策略
 4. 设定可追踪的销售指标
 5. 提供定价和包装建议
-
-## 来源
-
-- 项目：Auto-Company
-- 仓库：https://github.com/MaxMiksa/Auto-Company
-- 路径：.claude/agents/sales-ross.md
-- 条目：sales-ross
-- 整理时间：2026-03-11 15:15 UTC+8
-- 备注：基于原始内容做了最小必要整理与归档

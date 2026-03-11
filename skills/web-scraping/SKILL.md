@@ -1,6 +1,5 @@
 ---
 name: web-scraping
-description: Web scraping with anti-bot bypass, content extraction, undocumented APIs and poison pill detection. Use when extracting content from websites, handling paywalls, implementing scraping cascades or processing social media. Covers requests, trafilatura, Playwright with stealth mode, yt-dlp and instaloader patterns.
 ---
 
 # Web scraping methodology

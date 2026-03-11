@@ -1,6 +1,5 @@
 ---
 name: product-strategist
-description: Expert product strategy covering market analysis, competitive positioning, go-to-market planning, and product-led growth.
 version: 1.0.0
 author: Claude Skills
 category: product-design

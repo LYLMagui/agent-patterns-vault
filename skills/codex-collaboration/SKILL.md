@@ -1,6 +1,5 @@
 ---
 name: codex-collaboration
-description: 管理与Codex的协作流程，包括深度分析、复杂逻辑设计、代码审查等。当任务需要深度推理、>10行核心逻辑设计或质量审查时使用。
 ---
 
 # Codex Collaboration Skill

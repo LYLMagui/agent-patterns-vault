@@ -1,8 +1,5 @@
 ---
 name: websh
-description: |
-  A shell for the web. Navigate URLs like directories, query pages with Unix-like commands.
-  Activate on `websh` command, shell-style web navigation, or when treating URLs as a filesystem.
 ---
 
 # websh Skill
