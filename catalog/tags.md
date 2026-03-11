@@ -1,4 +1,4 @@
-# Tags
+# 标签
 
 建议统一复用以下标签，避免同义词过多。
 
@@ -21,6 +21,24 @@
 - `orchestration`
 - `automation`
 - `knowledge-base`
+
+## 角色与领域
+
+- `architecture`
+- `decision-making`
+- `development`
+- `devops`
+- `finance`
+- `interaction-design`
+- `marketing`
+- `operations`
+- `pricing`
+- `product-design`
+- `quality-assurance`
+- `sales`
+- `strategy`
+- `ui-design`
+- `ux`
 
 ## 状态
 
