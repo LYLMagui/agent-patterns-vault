@@ -21,6 +21,7 @@
 - `orchestration`
 - `automation`
 - `knowledge-base`
+- `prompt-engineering`
 
 ## 角色与领域
 

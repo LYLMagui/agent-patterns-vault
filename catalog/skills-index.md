@@ -37,7 +37,6 @@
 | seo-audit | 无 | 草稿 | 未注明 | 用于排查和审阅网站 SEO 问题，覆盖技术 SEO 与诊断分析。 | [查看条目](../skills/seo-audit/README.md) |
 | seo-content-strategist | 无 | 草稿 | 未注明 | 用于为 SaaS 和 B2B 网站制定 SEO 内容策略，包括关键词、内容集群和优化规划。 | [查看条目](../skills/seo-content-strategist/README.md) |
 | skill-creator | skill, workflow, automation | 草稿 | 未注明 | 用于创建、改造和评估 skill，并优化其触发描述与结构。 | [查看条目](../skills/skill-creator/README.md) |
-| skill-creator-auto-company | 无 | 草稿 | 未注明 | 用于创建或更新 skill，并提供更有效的技能设计方法。 | [查看条目](../skills/skill-creator-auto-company/README.md) |
 | skill-installer | skill, workflow, automation | 草稿 | 未注明 | 用于从 curated 列表或 GitHub 路径安装 Codex skills。 | [查看条目](../skills/skill-installer/README.md) |
 | skill-standardization | skill, workflow, automation | 草稿 | 未注明 | 用于批量标准化和校验 `SKILL.md` 的 frontmatter 与章节结构。 | [查看条目](../skills/skill-standardization/README.md) |
 | startup-business-models | 无 | 草稿 | 未注明 | 用于选择或评估创业项目的收入模式、定价指标、套餐设计与单位经济模型。 | [查看条目](../skills/startup-business-models/README.md) |
@@ -49,3 +48,4 @@
 | ux-audit-rethink | 无 | 草稿 | 未注明 | 用于从多维可用性和交互框架出发做 UX 审计，并提出重设计方向。 | [查看条目](../skills/ux-audit-rethink/README.md) |
 | web-scraping | 无 | 草稿 | 未注明 | 用于带反爬绕过、内容提取和接口探测的网站数据抓取。 | [查看条目](../skills/web-scraping/README.md) |
 | websh | 无 | 草稿 | 未注明 | 用于像操作文件系统一样浏览网页，用类 Unix 命令在 URL、页面与链接之间导航。 | [查看条目](../skills/websh/README.md) |
+| domain-expert-agent-creator | skill, workflow, prompt-engineering, knowledge-base | 草稿 | self-built；参考 [Anthropic 提示工程文档](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)、[Anthropic 智能体工程实践](https://www.anthropic.com/engineering/building-effective-agents)、[Anthropic 多智能体研究系统](https://www.anthropic.com/engineering/built-multi-agent-research-system)、[OpenAI 提示设计指南](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)、[OpenAI Agents 指南](https://openai.github.io/openai-agents-js/guides/multi-agent/) | 用于把某个领域、岗位、人物或角色需求整理成工程化的专家 Agent 提示词，覆盖角色建模、边界约束、结构化 Prompt、few-shot、工具路由与最小评测，并显式提示可通过 `find-skills` 补齐配套能力。 | [查看条目](../skills/domain-expert-agent-creator/README.md) |
